@@ -1,7 +1,7 @@
 # Site settings
 title:          Joseph Wood
 description:    "My personal site."
-baseurl:        ""
+baseurl:        "/tale"
 url:            "https://ithinkiamjoseph.github.io"
 
 # Google Analytics
